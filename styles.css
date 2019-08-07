@@ -44,3 +44,12 @@ div {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+@media screen and (max-wdith: 320px) {
+  img {
+    height: 300px;
+    width: 125px;
+    object-fit: cover;
+    align-items: center;
+  }
+}
