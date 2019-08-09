@@ -21,19 +21,24 @@ img {
   margin: 2%;
 }
 
-.horiz {
+.eighteen {
+  height: auto;
+  width: auto;
+}
+
+.tw-six {
   height: auto;
   width: 350px;
   object-fit: cover;
 }
 
-#horiz {
+#tw-sev {
   height: auto;
   width: 300px;
   object-fit: cover;
 }
 
-.sq {
+.eleven {
   height: auto;
   width: 325px;
   object-fit: cover;
